@@ -1,6 +1,7 @@
 {
   "name": "hr-抽奖与分组工具",
   "private": true,
+  "homepage": "https://hosea991.github.io/hr-helper/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
