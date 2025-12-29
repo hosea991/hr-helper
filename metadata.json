@@ -1,0 +1,7 @@
+{
+  "name": "HR 抽奖与分组工具",
+  "description": "专为 HR 设计的综合工具，支持名单管理、动画抽奖以及可视化自动分组。由 Gemini 提供智能名单解析和语音转录支持。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
